@@ -18,12 +18,6 @@ The goal was to uncover sales trends and provide insights into customer demograp
 - Regional comparison of sales across different locations  
 - Overall sales trends over time  
 
-## 🖼 Dashboard Preview
-(Add a screenshot of the dashboard here)  
-Example:  
-
-![Dashboard Screenshot](assets/bike_sales_dashboard.png)
-
 ## 📂 Files
 - `Bike_Sales_Dashboard.xlsx` → main dashboard file  
 - `README.md` → project documentation  
